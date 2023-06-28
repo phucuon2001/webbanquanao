@@ -1,0 +1,38 @@
+﻿#header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+#menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+#menu li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+    #menu li a {
+        display: block;
+        padding: 10px;
+        color: #333;
+        text-decoration: none;
+    }
+
+        #menu li a:hover {
+            background-color: #333;
+            color: #fff;
+        }
+
+#content {
+    padding: 20px;
+}
+
+#anhnen {
+    background-size: auto 100%;
+    background-position: center;
+}

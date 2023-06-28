@@ -1,0 +1,21 @@
+﻿#header {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: lightgray;
+    color: red;
+}
+#body {
+    text-align: right;
+    
+}
+
+    #body a {
+        background-color: #8BC34A;
+        display: inline-block;
+        float: right;
+        margin-left: 10px;
+        
+    }
